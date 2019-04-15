@@ -18,3 +18,7 @@ Estructura de un proyecto android base, donde se encontraran las librerias y cla
 * [Dexter](https://github.com/Karumi/Dexter) - **implementation 'com.karumi:dexter:5.0.0'**
 * [Multidex](https://mvnrepository.com/artifact/com.android.support/multidex/1.0.3) - **implementation 'com.android.support:multidex:1.0.3'**
 * [Retrofit](https://square.github.io/retrofit/) - **implementation  'com.squareup.retrofit2:retrofit:2.5.0'**
+
+## License
+
+This code is open-sourced software licensed under the [MIT license.](https://opensource.org/licenses/MIT)
