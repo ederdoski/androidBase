@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">tbx-experience-tv</string>
+
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+</resources>

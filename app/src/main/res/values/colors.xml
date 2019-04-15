@@ -1,0 +1,17 @@
+<resources>
+
+
+    <!-- ............... Base   ................. -->
+
+    <color name="action_bar">#000000</color>
+    <color name="status_bar">#000000</color>
+    <color name="color_widgets">#000000</color>
+
+    <color name="primary_color">#000000</color>
+    <color name="secondary_color">#000000</color>
+
+    <!-- ............... Text ................. -->
+
+
+
+</resources>
