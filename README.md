@@ -16,4 +16,7 @@ Estructura de un proyecto android base, donde se encontraran las librerias y cla
 * [ExoPlayer Video Player](https://github.com/google/ExoPlayer) - **implementation 'com.google.android.exoplayer:exoplayer:2.9.0'**
 * [Fonty Beauty Fonts](https://github.com/MarcinOrlowski/Fonty) - **'com.github.MarcinOrlowski:fonty:2.0.0'**
 * [Text Responsive](https://github.com/intuit/sdp) - **implementation 'com.intuit.sdp:sdp-android:1.0.3'**
-* [CardView Support] - **implementation 'com.android.support:cardview-v7:23.3.+'**
+* [Logger](https://github.com/orhanobut/logger) - **implementation 'com.orhanobut:logger:2.2.0'**
+* [Dexter](https://github.com/Karumi/Dexter) - **implementation 'com.karumi:dexter:5.0.0'**
+* [Multidex](https://mvnrepository.com/artifact/com.android.support/multidex/1.0.3) - **implementation 'com.android.support:multidex:1.0.3'**
+* [Retrofit](https://square.github.io/retrofit/) - **implementation  'com.squareup.retrofit2:retrofit:2.5.0'**
