@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- ............... Margins ................. -->
+
+    <dimen name="margin_start">@dimen/_25sdp</dimen>
+    <dimen name="margin_end">@dimen/_22sdp</dimen>
+
+    <!-- ............... Text ................. -->
+
+    <dimen name="font_title">@dimen/_19sdp</dimen>
+    <dimen name="font_subtitle">@dimen/_17sdp</dimen>
+    <dimen name="font_description">@dimen/_14sdp</dimen>
+
+    <dimen name="font_small">@dimen/_11sdp</dimen>
+    <dimen name="font_big">@dimen/_20sdp</dimen>
+
+</resources>

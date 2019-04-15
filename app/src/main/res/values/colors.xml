@@ -7,11 +7,29 @@
     <color name="status_bar">#000000</color>
     <color name="color_widgets">#000000</color>
 
-    <color name="primary_color">#000000</color>
-    <color name="secondary_color">#000000</color>
+    <color name="base_primary">#000000</color>
+    <color name="base_primaryDark">#000000</color>
+    <color name="base_secondary">#000000</color>
+    <color name="base_secondaryDark">#000000</color>
 
     <!-- ............... Text ................. -->
 
+    <color name="txt_title">#000000</color>
+    <color name="txt_subtitle">#000000</color>
+    <color name="txt_descriptions">#000000</color>
 
+    <!-- ............... Editext ................. -->
+
+    <!-- ............... Spinner ................. -->
+
+    <!-- ............... Buttons ................. -->
+
+    <!-- ...............  Icons  ................. -->
+
+    <!-- ...............  Colors  ................. -->
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0042be</color>
 
 </resources>

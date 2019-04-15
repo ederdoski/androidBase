@@ -2,9 +2,20 @@
 
     <string name="app_name">tbx-experience-tv</string>
 
+    <!-- ............... Dialogs ................. -->
 
-    <!-- Error messages -->
-    <string name="error_fragment_message">An error occurred</string>
-    <string name="dismiss_error">Dismiss</string>
+    <string name="txt_ups">ups…!</string>
+    <string name="txt_loading">Cargando</string>
+
+    <!-- ............... Buttons ................. -->
+
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_yes">SI</string>
+    <string name="btn_no">NO</string>
+
+    <!-- ............... Error messages ................. -->
+
+    <string name="error_not_internet">No posee conexión a internet</string>
 
 </resources>

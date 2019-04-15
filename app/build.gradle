@@ -1,7 +1,7 @@
 //noinspection GradleCompatible
 apply plugin: 'com.android.application'
 apply plugin: 'realm-android'
-
+apply from: 'flavors.gradle'
 
 android {
     compileSdkVersion 28
@@ -69,6 +69,9 @@ dependencies {
 
     //---- Dexter (Permissions)
     implementation 'com.karumi:dexter:5.0.0'
+
+    //---- Loading
+    implementation 'com.github.silvestrpredko:dot-progress-bar:1.1@aar'
 
 
     //    <-- ...............   Debug  ................. -->

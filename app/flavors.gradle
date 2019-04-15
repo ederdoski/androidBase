@@ -1,0 +1,35 @@
+
+android {
+    signingConfigs {
+        dishMovil {
+            keyAlias 'dish'
+            keyPassword 'CYa45CLxAXq'
+            storeFile file('src/dishMovil/dishMovil_prod.jks')
+            storePassword 'pB5Afx0Uae'
+        }
+
+        experience {
+            keyAlias 'experience'
+            keyPassword 'toolbox71p0A0'
+            storeFile file('src/experience/experience_prod.jks')
+            storePassword 'toolboxJ6H0'
+        }
+    }
+
+    flavorDimensions "prod"
+
+    productFlavors {
+
+        dishMovil {
+            applicationId 'com.tbxtv.dishMovil'
+            signingConfig signingConfigs.dishMovil
+            dimension "prod"
+        }
+
+        experience {
+            applicationId 'com.tbxtv.experience'
+            signingConfig signingConfigs.experience
+            dimension "prod"
+        }
+    }
+}

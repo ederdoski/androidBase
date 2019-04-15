@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_70sdp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:gravity="center"
+            android:text="Title"
+            android:textSize="@dimen/font_description" />
+
+        <com.github.silvestrpredko.dotprogressbar.DotProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_20sdp"
+            custom:amount="5"
+            custom:duration="@android:integer/config_mediumAnimTime"
+            custom:endColor="@color/base_primaryDark"
+            custom:startColor="@color/base_primary" />
+
+    </LinearLayout>
+
+</LinearLayout>
